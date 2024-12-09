@@ -8,6 +8,7 @@ const Cart = (props) => {
             <h2>Order Summary</h2>
             <p>Items ordered:{cart.length}</p>
             <p>Total:{total}</p>
+            <p>Total:{total}</p>
         </div>
     );
 };
